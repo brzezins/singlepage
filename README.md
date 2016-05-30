@@ -1,4 +1,4 @@
-E-commerce project
+Single Page project
 =================
 
 
